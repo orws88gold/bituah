@@ -106,3 +106,10 @@ body { background: var(--cream); }
 /* contrast fix: kicker on dark hero */
 .hero .kicker { color: #7DADFA; }
 .hero .kicker::before { background: #7DADFA; }
+
+/* contrast pass: darker blue on light backgrounds (>=4.5:1) */
+.kicker { color: #1D5CC9; }
+.kicker::before { background: #1D5CC9; }
+.hero .kicker, .contact .kicker { color: #7DADFA; }
+.hero .kicker::before, .contact .kicker::before { background: #7DADFA; }
+.sec-hook, .rowi .num, .statline strong { color: #1D5CC9; }
