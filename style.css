@@ -150,3 +150,6 @@ body, .site { font-weight: 400; }
 .hero-photo-inner::after { content: ''; position: absolute; inset: 18px -18px 0 18px; border: 1px solid var(--blue); z-index: 0; pointer-events: none; }
 .hero-photo::after { display: none !important; }
 @media (max-width: 900px) { .hero-photo-inner img { height: 380px; } .hero-photo-inner::after { display: none; } }
+
+/* Approved About text, 2026-11-09 */
+.about{background:#f7f2e7;color:#12211a;scroll-margin-top:90px}.about-body{max-width:780px;margin-inline:auto;font-size:18px;line-height:1.9}.about-body p{margin:0 0 1.25em}.about-body li{margin-bottom:1em}.about-body h3{font-size:1.55rem;line-height:1.5;margin:0 0 1em}.about-body strong{font-weight:700}.about-body li,.about-body p{overflow-wrap:anywhere}@media(max-width:650px){.about-body{font-size:17px;line-height:1.9}}
