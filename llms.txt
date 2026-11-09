@@ -19,3 +19,7 @@
 - [מדיניות פרטיות](https://bituah.net/privacy.html)
 - [תקנון ותנאי שימוש](https://bituah.net/terms.html)
 - [הצהרת נגישות](https://bituah.net/accessibility.html)
+
+## מאמרים
+- [מאמרים](https://bituah.net/blog/)
+- [ביטוח אובדן כושר עבודה: מה בודקים לפני שמשנים כיסוי](https://bituah.net/blog/disability-insurance-coverage-review/)
