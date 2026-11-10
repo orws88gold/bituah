@@ -35,7 +35,7 @@ body { background: var(--cream); }
 .hook { font-size: 22px; line-height: 1.6; color: var(--blue-soft); font-weight: 500; margin: 0 0 18px; max-width: 42ch; }
 .lede { font-size: 17px; line-height: 1.9; color: #C6D2E8; max-width: 48ch; margin: 0 0 42px; }
 .cta-row { display: flex; gap: 30px; align-items: center; flex-wrap: wrap; }
-.btn-main { background: var(--blue); color: #fff; padding: 15px 36px; border-radius: 999px; font-size: 15px; font-weight: 700; text-decoration: none; transition: background .3s, transform .3s; box-shadow: 0 10px 30px rgba(46,124,246,.35); }
+.btn-main { background: #2364d2; color: #fff; padding: 15px 36px; border-radius: 999px; font-size: 15px; font-weight: 700; text-decoration: none; transition: background .3s, transform .3s; box-shadow: 0 10px 30px rgba(46,124,246,.35); }
 .btn-main:hover { background: var(--blue-soft); color: var(--deep); transform: translateY(-2px); }
 .btn-text { font-size: 15px; color: var(--cream); text-decoration: none; border-bottom: 1px solid var(--blue); padding-bottom: 3px; }
 .btn-text:hover { color: var(--blue-soft); }
