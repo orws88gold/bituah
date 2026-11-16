@@ -33,6 +33,7 @@ body { background: var(--cream); }
 .hero h1 { font-weight: 900; font-size: 70px; line-height: 1.1; margin: 24px 0 20px; letter-spacing: -0.01em; color: #F5F8FF; }
 .hero h1 em { font-style: normal; font-weight: 500; font-size: .62em; color: var(--blue-soft); }
 .hook { font-size: 22px; line-height: 1.6; color: var(--blue-soft); font-weight: 500; margin: 0 0 18px; max-width: 42ch; }
+.direct-answer { font-size: 16px; line-height: 1.9; color: var(--ink); max-width: 72ch; margin: 26px 0 6px; padding: 16px 20px; background: var(--paper); border-inline-start: 4px solid var(--blue); border-radius: 12px; box-shadow: 0 6px 24px rgba(7,27,64,.06); }
 .lede { font-size: 17px; line-height: 1.9; color: #C6D2E8; max-width: 48ch; margin: 0 0 42px; }
 .cta-row { display: flex; gap: 30px; align-items: center; flex-wrap: wrap; }
 .btn-main { background: #2364d2; color: #fff; padding: 15px 36px; border-radius: 999px; font-size: 15px; font-weight: 700; text-decoration: none; transition: background .3s, transform .3s; box-shadow: 0 10px 30px rgba(46,124,246,.35); }
